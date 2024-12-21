@@ -13,7 +13,7 @@
 
 ###
 
-<h1 align="center"> I'm Kerem Charyyef and it's my <a href="https://keremcharyyef.vercel.app">CV</a></h1>
+<h1 align="center"> I'm Kerem Charyyef & it's my <a href="https://keremcharyyef.vercel.app">CV</a></h1>
 
 ###  About Me
 
