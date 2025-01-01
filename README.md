@@ -17,7 +17,7 @@
 
 ###  About Me
 
-<p align="left">I am a skilled software developer with experience in TypeScript and
+<p align="left">I'm a skilled software developer with experience in TypeScript and
         JavaScript, and expertise in frameworks like React, Node.js. 
         I'm a quick learner and collaborate closely with clients to
         create efficient, scalable, and user-friendly solutions that solve
