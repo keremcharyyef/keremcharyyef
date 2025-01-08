@@ -21,7 +21,7 @@
         JavaScript, and expertise in frameworks like React, Nest.js. 
         I'm a quick learner and collaborate closely with clients to
         create efficient, scalable, and user-friendly solutions that solve
-        real-world problems. Let's work together to bring your ideas to life!  <br><br>- 🔭 I am working as a backend developer<br>- 📚 I'm currently learning Docker and Kubernetes<br>- ⚡ In my free time, I love playing video games and working out at my fitness club.</p>
+        real-world problems. Let's work together to bring your ideas to life!  <br><br>- 🔭 I'm working as a backend developer<br>- 📚 I'm currently learning Docker and Kubernetes<br>- ⚡ In my free time, I love playing video games and working out at my fitness club.</p>
 
 ###
 
