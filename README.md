@@ -24,7 +24,7 @@
 
 ###  About Me
 
-<p align="left">I am a skilled software developer with experience in TypeScript and
+<p align="left">I am a skilled software developer with experience in NodeJs and
         Java, and expertise in frameworks like React, NestJs, Spring-boot. 
         I'm a quick learner and collaborate closely with clients to
         create efficient, scalable, and user-friendly solutions that solve
