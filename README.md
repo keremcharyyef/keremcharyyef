@@ -20,7 +20,7 @@
 
 ###
 
-<h1 align="center"> I'm Kerem Charyyef & It's my => <a href="https://keremcharyyef.vercel.app">CV</a></h1>
+<h1 align="center"> I'm Kerem Charyyef & It's my => <a href="https://keremcharyyef.dev">CV</a></h1>
 
 ###  About Me
 
